@@ -1,4 +1,4 @@
 # StaticWebsite
-Diese Webseite wurde mit HTML5 und CSS3 erstellt. Um sie erstellen zu können habe ich die Chefin von der Dance Town GmbH um Erlaubnis gebeten. 
-Die in der Weseite erwähnten Tanzlehrer sind damit einverstanden, dass ich Bilder von ihnen Benutze. 
-Die originale Dance Town Webseite ist mehmals verlinkt.
+This website was created with HTML5 and CSS3. In order to be able to create them, I asked the head of Dance Town GmbH for permission. 
+The dance teachers who are mentioned on the website agreed that I use their pictures. 
+The original Dance Town website is linked several times.
